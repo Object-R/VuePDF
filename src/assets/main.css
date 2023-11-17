@@ -1,0 +1,6 @@
+@import './base.css';
+
+:root {
+  
+  --el-color-primary: #6c757d !important;
+}
